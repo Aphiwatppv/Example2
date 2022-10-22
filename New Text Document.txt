@@ -1,8 +1,10 @@
-<<<<<<< HEAD
-
 1+1 = 10
 =======
 Hello 
+<<<<<<< HEAD
+int i = 0;
+test
+=======
 
 int i = 0;
 int i = 3;
@@ -11,9 +13,12 @@ int i = 3;
 =======
 Hello 
 int i = 0;
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/Master
 List<string> d = new List<string>() 
 for(int i = 0; i < d.count;i++)
 {
     MessageBox.show("Aphiwat")
 }
+=======
+>>>>>>> cc08aa5badbb9b8fe2ef565df9e5e5561da0bb08
