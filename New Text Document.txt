@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1+1 = 10
 =======
@@ -5,3 +6,9 @@ Hello
 
 int i = 0;
 int i = 3;
+=======
+1+1 = 10
+=======
+Hello 
+int i = 0;
+>>>>>>> refs/remotes/origin/Master
