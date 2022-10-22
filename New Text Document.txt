@@ -12,3 +12,8 @@ int i = 3;
 Hello 
 int i = 0;
 >>>>>>> refs/remotes/origin/Master
+List<string> d = new List<string>() 
+for(int i = 0; i < d.count;i++)
+{
+    MessageBox.show("Aphiwat")
+}
